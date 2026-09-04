@@ -1,0 +1,6 @@
+{
+  "name": "AI Fleet Disruption & Voyage Recovery Orchestrator",
+  "description": "An end-to-end maritime fleet disruption management and voyage recovery orchestration platform featuring multi-role access gates, telemetry deduplication, AI recovery planning, offline fallback, and Stage 7 verification harness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
